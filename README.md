@@ -1,2 +1,2 @@
-# flow-map
-Visualization of flows on world map, as used on zeean.net
+# Flow-Map
+Visualization of flows on world a map, as used on http://zeean.net/visualization
